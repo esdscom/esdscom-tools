@@ -25,6 +25,9 @@ We would love to make this a generally usable XSD to SAMM converter. If you appl
 ### Links
 
 https://www.esdscom.eu/
+
 https://eclipse-esmf.github.io/samm-specification/snapshot/index.html
+
 https://docs.bosch-semantic-stack.com/oss/aspect-model-editor.html
+
 https://catenax-ev.github.io/
